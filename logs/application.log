@@ -21,3 +21,4 @@
 98499 [http-nio-8080-exec-4] INFO  com.korniak.myapp.user.User - User added by empty constructor
 98504 [http-nio-8080-exec-4] INFO  c.k.m.c.ConnectionController - User - name: Paweł Korniak, last name: asdasdadded by addUser
 98515 [http-nio-8080-exec-5] INFO  com.korniak.myapp.user.User - User added by empty constructor
+2072758 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

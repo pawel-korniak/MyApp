@@ -1,4 +1,4 @@
-FROM openjdk
+FROM ubuntu
 LABEL author="Pawel Korniak"
 COPY . /app
 WORKDIR /app
