@@ -22,3 +22,14 @@
 98504 [http-nio-8080-exec-4] INFO  c.k.m.c.ConnectionController - User - name: Paweł Korniak, last name: asdasdadded by addUser
 98515 [http-nio-8080-exec-5] INFO  com.korniak.myapp.user.User - User added by empty constructor
 2072758 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+993  [main] INFO  c.korniak.myapp.MyApplicationTests - Starting MyApplicationTests using Java 11.0.9.1 on pawel-LIFEBOOK-E544 with PID 16734 (started by pawel in /home/pawel/Desktop/MyApp)
+1011 [main] INFO  c.korniak.myapp.MyApplicationTests - No active profile set, falling back to default profiles: default
+2028 [main] INFO  com.korniak.myapp.user.User - User - name: aaa, last name: bbbadded by full constructor
+2028 [main] INFO  com.korniak.myapp.user.User - User - name: ccc, last name: dddadded by full constructor
+2029 [main] INFO  com.korniak.myapp.user.User - User - name: eee, last name: fffadded by full constructor
+2029 [main] INFO  com.korniak.myapp.user.User - User - name: ggg, last name: hhhadded by full constructor
+2029 [main] INFO  c.k.m.c.ConnectionController - Users load by loadCars
+2735 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2924 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+3259 [main] INFO  c.korniak.myapp.MyApplicationTests - Started MyApplicationTests in 2.72 seconds (JVM running for 3.963)
+3780 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
